@@ -1,2 +1,10 @@
-# Data-Analysis-Tableau-Sql-Dashboard
-This repository contains a dynamic sales report dashboard built to analyze pizza sales data. The project includes visualizations for key performance metrics such as Total Revenue, Average Order Value, Total Pizzas Sold, Total Orders and Average Pizzas Per Order . Perfect for gaining actionable business intelligence from sales data.
+# Pizza-Sales-Data-Analysis(Interactive Dashboard creation using SQL and Tableau)
+## Project Objective
+The objective of this project is to to analyze and visualize pizza sales data to uncover key trends and insights for better business decisions. Visualizations should include a stacked bar chart for hourly pizza sales trends, a line chart for weekly order activity, and a pie chart for sales distribution by pizza category. These insights should help optimize customer behavior analysis, marketing, inventory, and operations strategies.
+
+
+
+
+
+
+
