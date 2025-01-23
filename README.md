@@ -31,6 +31,11 @@ We need to analyze key indicators for our pizza sales data to gain insights into
 ![Screenshot](https://github.com/ramyakothapally-spec/Data-Analysis-Tableau-Sql-Dashboard/blob/main/Tableau_Dashboard_Image1.jpg)
 ![Screenshot](https://github.com/ramyakothapally-spec/Data-Analysis-Tableau-Sql-Dashboard/blob/main/Tableau_Dashboard_Image2.jpg)
 
+## Project Insights
+- Revenue and Order Metrics: The total revenue from pizza sales is significant, with average order values indicating healthy customer spending habits. The average number of pizzas per order further suggests customer preferences for multiple purchases in a single order.
+- Sales by Time: Hourly and weekly trends show peak sales hours and weeks, providing valuable insights for optimizing operations and staffing.
+- Category and Size Preferences: Classic pizza categories and large sizes dominate sales, indicating their popularity among customers.
+- Top Performers: The top 5 pizzas by revenue, quantity, and orders reveal the best-selling options, enabling targeted promotions.
 
-
-
+## Final Conclusion
+To improve sales performance and customer satisfaction, focus on optimizing operations during peak hours and leveraging popular products through targeted promotions. Address underperforming pizzas by refining recipes, pricing, or marketing efforts. Introduce time-sensitive offers during non-peak periods to boost revenue and ensure consistent sales. Additionally, implement customer feedback mechanisms and loyalty programs to enhance service quality and foster long-term customer loyalty. These strategies will drive sustained growth and improve the overall customer experience.
