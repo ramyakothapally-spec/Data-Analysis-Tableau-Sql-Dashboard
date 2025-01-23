@@ -27,8 +27,8 @@ We need to analyze key indicators for our pizza sales data to gain insights into
 - Design Visualizations: Build interactive charts, including stacked bar charts for hourly trends, line charts for weekly orders, and pie charts - for category-wise sales distribution.
 - Dashboard Integration: Combine all visualizations into a single, user-friendly dashboard, enabling dynamic filtering and insights.
 
-
-
+## Dashboard
+![Screenshot]()
 
 
 
