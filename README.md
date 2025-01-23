@@ -29,7 +29,7 @@ We need to analyze key indicators for our pizza sales data to gain insights into
 
 ## Dashboard
 ![Screenshot](https://github.com/ramyakothapally-spec/Data-Analysis-Tableau-Sql-Dashboard/blob/main/Tableau_Dashboard_Image_1.jpg)
-![Screenshot]()
+![Screenshot](https://github.com/ramyakothapally-spec/Data-Analysis-Tableau-Sql-Dashboard/blob/main/Tableau_Dashboard_Image2.jpg)
 
 
 
