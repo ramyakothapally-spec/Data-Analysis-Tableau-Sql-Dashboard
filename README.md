@@ -21,6 +21,12 @@ We need to analyze key indicators for our pizza sales data to gain insights into
 - Bottom 5 Best Sellers by Revenue, Total Quantity and Total Orders:Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the Revenue, Total Quantity, Total Orders
 - Dashboard Interaction <a href="https://github.com/ramyakothapally-spec/Data-Analysis-Tableau-Sql-Dashboard/blob/main/Pizza%20Sales%20Report%20Dashboard.twbx">View Dashboard <a/>
 
+## Process for Creating the Tableau Dashboard
+- Data Preparation: Clean and preprocess the pizza sales dataset, ensuring accurate calculations for metrics such as total sales, orders, and - category-wise breakdowns.
+- Connect to Tableau: Import the cleaned data into Tableau and create calculated fields for key metrics (e.g., revenue, average order value, and --percentage contributions).
+- Design Visualizations: Build interactive charts, including stacked bar charts for hourly trends, line charts for weekly orders, and pie charts - for category-wise sales distribution.
+- Dashboard Integration: Combine all visualizations into a single, user-friendly dashboard, enabling dynamic filtering and insights.
+
 
 
 
