@@ -19,7 +19,7 @@ We need to analyze key indicators for our pizza sales data to gain insights into
 - Total Pizzas Sold by Pizza Category:Create a funnel chart that presents the total number of pizzas sold for each pizza category
 - Top 5 Best Sellers by Revenue, Total Quantity and Total Orders:Create a bar chart highlighting the top 5 best-selling pizzas based on the Revenue, Total Quantity, Total Orders
 - Bottom 5 Best Sellers by Revenue, Total Quantity and Total Orders:Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the Revenue, Total Quantity, Total Orders
-
+- <a href="https://github.com/ramyakothapally-spec/Data-Analysis-Tableau-Sql-Dashboard/blob/main/Pizza%20Sales%20Report%20Dashboard.twbx">View Dashboard <a/>
 
 
 
