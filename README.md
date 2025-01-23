@@ -28,6 +28,7 @@ We need to analyze key indicators for our pizza sales data to gain insights into
 - Dashboard Integration: Combine all visualizations into a single, user-friendly dashboard, enabling dynamic filtering and insights.
 
 ## Dashboard
+![Screenshot](https://github.com/ramyakothapally-spec/Data-Analysis-Tableau-Sql-Dashboard/blob/main/Tableau_Dashboard_Image_1.jpg)
 ![Screenshot]()
 
 
